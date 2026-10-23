@@ -1,6 +1,6 @@
 # Digital-Flexure
 
-# Complete Microscope Bill of Materials (BOM)
+# Bill of Materials (BOM)
 
 This document lists the major components, optical parts, electronics, mechanical structures, and assembly materials required for the low-cost microscope project.
 
